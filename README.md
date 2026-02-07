@@ -13,12 +13,13 @@ I'm learning Python step by step and documenting my progress daily.
 ## 📅 Daily Progress
 You can find my daily learning notes inside the `daily-notes/` folder.
 
-## 🛠 Topics Covered
-- Variables & Data Types
-- Mathematical Operations
-- Control Flow
-- Functions
-- Projects (BMI Calculator, Tip Calculator, etc.)
+## 🧩 Learning Focus
+
+- Python fundamentals and problem solving
+- Writing clean, readable, and maintainable code
+- Understanding core programming concepts step by step
+- Building small practice projects to reinforce learning
+- Using Git & GitHub to track daily progress
 
 ## 🚀 Motivation
 Consistency over perfection.
